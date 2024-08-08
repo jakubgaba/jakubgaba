@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jakub Gaba</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 📄 Know about my experiences [https://jakubgabaportfolio.vercel.app/](https://jakubgabaportfolio.vercel.app/)
+- 📄 You can find me [https://jakubgabaportfolio.vercel.app/](https://jakubgabaportfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
