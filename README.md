@@ -14,5 +14,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakubgaba&show_icons=true&theme=radical&text_color=ffffff&locale=en&layout=compact" alt="jakubgaba" /></p>
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="/github-snake.svg" alt="snake"/>
 </p>
