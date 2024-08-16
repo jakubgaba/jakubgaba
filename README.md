@@ -1,4 +1,4 @@
-<img align="left" src="https://i.gifer.com/9hw9.gif" width="21%" style="display:inline;"><img align="right" src="https://i.gifer.com/9hw9.gif" width="21%" style="display:inline;">
+<img align="left" src="2r6B.gif" width="21%" style="display:inline;"><img align="right" src="2r6B.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Jakub Gaba</h1>
 <h3 align="center">A passionate developer</h3>
