@@ -15,6 +15,10 @@
 
 <a href="https://github.com/jakubgaba"><img src="https://readme-typing-svg.demolab.com?font=Fontdiner+Swanky&size=39&pause=1000&color=15F744&center=true&vCenter=true&width=435&lines=Web+developer;Food+lover;Code+addicted;Focused" alt="Typing SVG" /></a>
 
+
+<img src="5362.gif">
+
+
 </p>
 
 <!--
