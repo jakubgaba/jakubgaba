@@ -1,7 +1,7 @@
 <img align="left" src="2r6B.gif" width="21%" style="display:inline;"><img align="right" src="2r6B.gif" width="21%" style="display:inline;">
 
 <p align="center">
-  <a href="http://jrohit.com.np" target="_blank">
+  <a href="https://jakubgabaportfolio.vercel.app" target="_blank">
         <p align="center">
     <img alt="Coding" width="200" src="6tXM.gif">
     </a>
@@ -10,7 +10,7 @@
         <img src="https://github-widgetbox.vercel.app/api/profile?username=jakubgaba&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
     </a>
 
-<p align="center"><a href="https://github.com/jrohitofficial"><img src="277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p> 
+<p align="center"><a href="https://jakubgabaportfolio.vercel.app"><img src="277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p> 
 
 
 <a href="https://github.com/jakubgaba"><img src="https://readme-typing-svg.demolab.com?font=Fontdiner+Swanky&size=39&pause=1000&color=15F744&center=true&vCenter=true&width=435&lines=Web+developer;Food+lover;Code+addicted;Focused" alt="Typing SVG" width="100%" /></a>
@@ -137,11 +137,11 @@
     <img src="Man Bouncing Ball Medium-Dark Skin Tone.png" alt="Azure" width="40" height="40" />
   </a>
 
-  <a href="https://jrohit.com.np" target="_blank">
+  <a href="https://jakubgabaportfolio.vercel.app" target="_blank">
     <img src="Man Technologist Medium-Dark Skin Tone.png" alt="Azure" width="40" height="40" />
   </a>
 
-  <a href="https://jrohit.com.np" target="_blank">
+  <a href="https://jakubgabaportfolio.vercel.app" target="_blank">
     <img src="Video Game.webp" alt="Azure" width="40" height="40" />
   </a>
  </p>
