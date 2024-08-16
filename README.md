@@ -16,7 +16,7 @@
 <a href="https://github.com/jakubgaba"><img src="https://readme-typing-svg.demolab.com?font=Fontdiner+Swanky&size=39&pause=1000&color=15F744&center=true&vCenter=true&width=435&lines=Web+developer;Food+lover;Code+addicted;Focused" alt="Typing SVG" width="100%" /></a>
 
 
-<img src="ZWdx.gif" width="100%" height="20%">
+<img src="5362-ezgif.com-crop.gif" width="100%">
 
 <p><img align="center" width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakubgaba&show_icons=true&theme=radical&text_color=ffffff&locale=en&layout=compact" alt="jakubgaba" /></p>
 
