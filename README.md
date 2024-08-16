@@ -13,7 +13,7 @@
 <p align="center"><a href="https://github.com/jrohitofficial"><img src="277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p> 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fontdiner+Swanky&size=39&pause=1000&color=15F744&center=true&vCenter=true&width=435&lines=Web+developer;Food+lover;Code+addicted;Focused" alt="Typing SVG" /></a>
+<a href="https://github.com/jakubgaba"><img src="https://readme-typing-svg.demolab.com?font=Fontdiner+Swanky&size=39&pause=1000&color=15F744&vCenter=true&width=435&lines=Web+developer;Food+lover;Code+addicted;Focused" alt="Typing SVG" /></a>
 
 
 <!--
