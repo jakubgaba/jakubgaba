@@ -105,6 +105,47 @@
     </a>
 </p>
 
+<div align="center">
+
+#### 🅓🅔🅢🅘🅖🅝/🅥🅘🅢🅤🅐🅛 🅣🅞🅞🅛🅢
+![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
+![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
+
+#### 🅦🅔🅑 🅗🅞🅢🅣🅘🅝🅖
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
+
+#### 🅥🅔🅡🅢🅘🅞🅝 🅒🅞🅝🅣🅡🅞🅛
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+</div>
+
+
+<div align="center">
+    <i style="font-size: 10px;">
+        "There are bad times and good times <br><b>When people won't stay with you at bad times. </b><br> They don't deserve to stay with you at the good times.<br><b>"
+    </i>
+</div>
+
+
+
+####
+<br clear="both">
+<p align="center">🅰🅲🆃🅸🆅🅸🆃🅸🅴🆂</p>
+ <p align="center">
+  <a href="https://jakubgabaportfolio.vercel.app" target="_blank">
+    <img src="Man Bouncing Ball Medium-Dark Skin Tone.png" alt="Azure" width="40" height="40" />
+  </a>
+
+  <a href="https://jrohit.com.np" target="_blank">
+    <img src="Man Technologist Medium-Dark Skin Tone.png" alt="Azure" width="40" height="40" />
+  </a>
+
+  <a href="https://jrohit.com.np" target="_blank">
+    <img src="Video Game.webp" alt="Azure" width="40" height="40" />
+  </a>
+ </p>
+
 <!--
 - 📄 You can find me [https://jakubgabaportfolio.vercel.app/](https://jakubgabaportfolio.vercel.app/)
 
