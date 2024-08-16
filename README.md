@@ -1,8 +1,18 @@
 <img align="left" src="2r6B.gif" width="21%" style="display:inline;"><img align="right" src="2r6B.gif" width="21%" style="display:inline;">
 
-<h1 align="center">Hi 👋, I'm Jakub Gaba</h1>
-<h3 align="center">A passionate developer</h3>
+<p align="center">
+  <a href="http://jrohit.com.np" target="_blank">
+        <p align="center">
+    <img alt="Coding" width="200" src="6tXM.gif">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adjust the number of non-breaking spaces as needed -->
+    <a href="https://jgaba-portfolio.vercel.app" target="_blank">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=jakubgaba&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+    </a>
 
+<p align="center"><a href="https://github.com/jrohitofficial"><img src="277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p> 
+
+<!--
 - 📄 You can find me [https://jakubgabaportfolio.vercel.app/](https://jakubgabaportfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
@@ -18,3 +28,5 @@
 <p align="center">
  <img width="1000" src="/github-snake.svg" alt="snake"/>
 </p>
+
+--!>
